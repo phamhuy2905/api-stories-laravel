@@ -1,0 +1,3 @@
+<div>
+    Pass: {{ $data }}
+</div>
